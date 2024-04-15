@@ -1,0 +1,179 @@
+{
+    "language": "en",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": false,
+    "keyAdminOnly": "",
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "لوسي",
+    "PREFIX": ".",
+    "NDH": [
+        ""
+    ],
+    "ADMINBOT": [
+        "100091289020368",
+        "61550912368313",
+        "",
+        "",
+        ""
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Safari/537.36"
+    },
+    "version": "1.2.14",
+    "bank": {
+        "APIKEY": "chinhdz"
+    },
+    "cave": {
+        "cooldownTime": 10000
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 200
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 120
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 5
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyC1HQ3HHQSzgXdvlm5vZ2gWX0Ubk8GYD-c",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "sing2": {
+        "YOUTUBE_API": "AIzaSyC1HQ3HHQSzgXdvlm5vZ2gWX0Ubk8GYD-c"
+    },
+    "tiktok": {
+        "API_KEY": "mzk_YY3AMTY00CLCBSQYXNA"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyC1HQ3HHQSzgXdvlm5vZ2gWX0Ubk8GYD-c"
+    },
+    "video2": {
+        "YOUTUBE_API": "AIzaSyC1HQ3HHQSzgXdvlm5vZ2gWX0Ubk8GYD-c"
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    },
+    "lixi": {
+        "cooldownTime": 600000
+    },
+    "đĩ": {
+        "cooldownTime": ""
+    },
+    "adminOnly": false,
+    "subnautica": {
+        "cooldownTime": 1200000,
+        "APIKEY": ""
+    },
+    "lqmb": {
+        "cooldownTime": 60
+    },
+    "ytbmp4": {
+        "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+    },
+    "كهف": {
+        "cooldownTime": 60,
+        "cooldown": 2000000000
+    },
+    "راتب": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 200
+    },
+    "ع8ع": {
+        "cooldownTime": 5
+    },
+    "تاريخ": {
+        "cooldownTime": 60
+    },
+    "نكنيم": {
+        "APIKEY": "mi451266190"
+    },
+    "song": {
+        "YOUTUBE_API": "AIzaSyC1HQ3HHQSzgXdvlm5vZ2gWX0Ubk8GYD-c",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "صيد": {
+        "cooldownTime": 1200000
+    },
+    "ytb": {
+        "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+    },
+    "vid": {
+        "YOUTUBE_API": "AIzaSyC1HQ3HHQSzgXdvlm5vZ2gWX0Ubk8GYD-c"
+    },
+    "vid2": {
+        "YOUTUBE_API": "AIzaSyC1HQ3HHQSzgXdvlm5vZ2gWX0Ubk8GYD-c"
+    },
+    "عمل": {
+        "cooldownTime": 1200000
+    },
+    "طقس": {
+        "OPEN_WEATHER": "c4ef85b93982d6627681b056e24bd438"
+    },
+    "بنك": {
+        "APIKEY": "chinhdz"
+    },
+    "سمك": {
+        "cooldownTime": 1000000
+    },
+    "تونه": {
+        "cooldownTime": 1000000
+    },
+    "طمع": {
+        "cooldownTime": 1000000
+    },
+    "صنارة": {
+        "cooldownTime": 10000
+    },
+    "شحدا": {
+        "cooldownTime": 1000000
+    },
+    "منجم": {
+        "cooldownTime": 1000000
+    },
+    "اوامر": {
+        "autoUnsend": true,
+        "delayUnsend": 20
+    },
+    "نقود": {
+        "cooldownTime": 100
+    }
+}

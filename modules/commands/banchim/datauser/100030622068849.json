@@ -1,0 +1,18 @@
+{
+    "name": "Mạc Phàm Tử Long",
+    "ID": "100030622068849",
+    "shield": 3,
+    "coins": 45200,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 10,
+            "tree": 20,
+            "pool": 20,
+            "pet": 20
+        }
+    },
+    "spin": 37,
+    "timeRegister": "11:26:03, 21/3/2022"
+}
